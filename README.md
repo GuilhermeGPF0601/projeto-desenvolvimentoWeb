@@ -1,6 +1,10 @@
 # Portfólio — Guilherme Peres
 
-Site pessoal de portfólio desenvolvido para a disciplina de **Desenvolvimento Web**. O projeto apresenta informações sobre Guilherme Peres, seus interesses, hobbies e projetos futuros em uma interface moderna, responsiva e com tema escuro.
+Site pessoal de portfólio desenvolvido para a disciplina de **Desenvolvimento Web**. O projeto apresenta informações sobre Guilherme Peres, seus interesses, hobbies e projetos futuros em uma interface responsiva, organizada e com identidade visual personalizada.
+
+## 🌐 Acesse o site publicado
+
+### **[https://guilhermegpf0601.github.io/projeto-desenvolvimentoWeb/](https://guilhermegpf0601.github.io/projeto-desenvolvimentoWeb/)**
 
 > Repositório: [GuilhermeGPF0601/projeto-desenvolvimentoWeb](https://github.com/GuilhermeGPF0601/projeto-desenvolvimentoWeb)
 
